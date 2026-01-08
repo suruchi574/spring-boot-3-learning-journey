@@ -1,2 +1,18 @@
-# spring-boot-3-learning-journey
-Daily hands-on practice of Spring 6 &amp; Spring Boot 3 with notes, code, and projects
+# Spring Boot 3 Learning Journey 🚀
+
+This repository tracks my daily learning and hands-on practice of modern backend development using:
+
+- Spring 6
+- Spring Boot 3
+- REST APIs
+- Spring Security (JWT)
+- Microservices
+- Docker & Cloud (AWS)
+
+## Purpose
+- Maintain daily coding consistency
+- Track progress topic-wise
+- Prepare for backend developer interviews
+
+## Structure
+Day-wise folders will be added with notes and code as I progress.
